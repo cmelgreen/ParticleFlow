@@ -1,7 +1,6 @@
-Explanation of my rewrite copied from Github.
-The original posters question and code are at:[Modelling Of Particle Flow Under Electrical Field](https://codereview.stackexchange.com/questions/249239/modelling-of-partcle-flow-under-electric-field)
-
-
+Explanation of my code and how improves performance copied from StackExchange CoderReview
+Original question and code found at:
+[Modelling Of Particle Flow Under Electrical Field](https://codereview.stackexchange.com/questions/249239/modelling-of-partcle-flow-under-electric-field)
 
 **TLDR: Vectorize and eliminate redundant calculations. Rewriting most of your code gave a 400-500x speed up**
 
